@@ -1,0 +1,1 @@
+Yukarıda ki kod dizileri Insider Code Academy Ödev-2 kapsamında yapılmıştır.
